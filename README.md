@@ -25,6 +25,9 @@
 <br />
 
 <img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&hide_border=true" />
+<br />
+
+<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&show_icons=true&hide_border=true" />
 
 [website]: https://dellhoak.github.io
 [twitter]: https://twitter.com/
