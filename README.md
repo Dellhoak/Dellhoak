@@ -24,10 +24,10 @@
 <br />
 <br />
 
-<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&icon_color=000000&hide_border=true" />
+<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&icon_color=B3D7DD&title_color=B3D7DD&hide_border=true" />
 <br />
 
-<img align="left" alt="Aliasgar's GitHub lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&layout=compact&show_icons=true&hide_border=true" />
+<img align="left" alt="Aliasgar's GitHub lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&layout=compact&title_color=B3D7DD&show_icons=true&hide_border=true" />
 
 [website]: https://dellhoak.github.io
 [twitter]: https://twitter.com/
