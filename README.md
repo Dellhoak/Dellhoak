@@ -24,12 +24,12 @@
 <br />
 <br />
 
-<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&icon_color=B3D7DD&title_color=B3D7DD&hide_border=true" />
+<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&icon_color=1D4F6F&title_color=1D4F6F&hide_border=true" />
 <br />
 
-<img align="left" alt="Aliasgar's GitHub lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&layout=compact&title_color=B3D7DD&show_icons=true&hide_border=true" />
+<img align="left" alt="Aliasgar's GitHub lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&layout=compact&title_color=1D4F6F&show_icons=true&hide_border=true" />
 
 [website]: https://dellhoak.github.io
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/imaliasgar1
-[linkedin]: https://linkedin.com/in/
+[twitter]: https://twitter.com/imaliasgar1
+[instagram]: https://instagram.com/imaliasgar0
+[linkedin]: https://linkedin.com/in/aliasgar-husain-7a3510158/
