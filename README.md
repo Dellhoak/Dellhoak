@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&text_color=#000000&hide_border=true" />
+<img align="left" alt="Aliasgar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dellhoak&show_icons=true&icon_color=000000&hide_border=true" />
 <br />
 
 <img align="left" alt="Aliasgar's GitHub lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellhoak&layout=compact&show_icons=true&hide_border=true" />
